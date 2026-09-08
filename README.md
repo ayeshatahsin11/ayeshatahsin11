@@ -14,7 +14,7 @@
 - 🎯 Focused on writing clean, responsive UIs and understanding how the frontend talks to the backend
 - 📚 On a 1+ year self-taught journey — steady progress over speed
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, or frontend architecture**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: ayeshatahsin1000@gmail.com
 
 ---
 
@@ -55,12 +55,12 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="ayeshatahsin1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/_pandaphile_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Currently building projects and pushing my MERN journey forward, one commit at a time 🌱</i></p>
+
 
 ### 📊 GitHub Stats
 
@@ -74,5 +74,5 @@
 </p>
 
 ---
-
+<p align="center"><i>Currently building projects and pushing my MERN journey forward, one commit at a time 🌱</i></p>
 
