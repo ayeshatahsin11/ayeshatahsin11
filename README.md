@@ -53,6 +53,15 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="ayeshatahsin1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_pandaphile_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Currently building projects and pushing my MERN journey forward, one commit at a time 🌱</i></p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -66,11 +75,4 @@
 
 ---
 
-### 🌐 Connect with Me
 
-<p align="center">
-  <a href="ayeshatahsin1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-</p>
-
-<p align="center"><i>Currently building projects and pushing my MERN journey forward, one commit at a time 🌱</i></p>
